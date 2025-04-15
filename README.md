@@ -1,4 +1,4 @@
-# MY SQL-PROJECT
+# MYSQL-Projects Repository
 
 **OVERVIEW**
 
